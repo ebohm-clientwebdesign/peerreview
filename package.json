@@ -12,6 +12,6 @@
     "jsdom": "^22.1.0"
   },
   "devDependencies": {
-    "jest": "^latest_version" // Jest version will be added here
+    "jest": "^latest_version"
   }
 }
